@@ -1,0 +1,45 @@
+Tip Calculator
+--------------
+
+If your total is $0.00, then your tip amt is $0.00.
+
+If your total is $1.00, then your tip amt is $0.15.
+
+If your total is $2.00, then your tip amt is $0.30.
+
+If your total is $3.00, then your tip amt is $0.45.
+
+If your total is $4.00, then your tip amt is $0.60.
+
+If your total is $5.00, then your tip amt is $0.75.
+
+If your total is $6.00, then your tip amt is $0.90.
+
+If your total is $7.00, then your tip amt is $1.05.
+
+If your total is $8.00, then your tip amt is $1.20.
+
+If your total is $9.00, then your tip amt is $1.35.
+
+If your total is $10.00, then your tip amt is $1.50.
+
+If your total is $11.00, then your tip amt is $1.65.
+
+If your total is $12.00, then your tip amt is $1.80.
+
+If your total is $13.00, then your tip amt is $1.95.
+
+If your total is $14.00, then your tip amt is $2.10.
+
+If your total is $15.00, then your tip amt is $2.25.
+
+If your total is $16.00, then your tip amt is $2.40.
+
+If your total is $17.00, then your tip amt is $2.55.
+
+If your total is $18.00, then your tip amt is $2.70.
+
+If your total is $19.00, then your tip amt is $2.85.
+
+If your total is $20.00, then your tip amt is $3.00.
+
